@@ -9,6 +9,7 @@ SPE/OnePetro Document ID: SPE-201351-MS
 
 Abstract: To be uploaded
 
+## Conflicts of Interest Statement
 The contributors of this repository declare no competing interests exist. This repository is for educational purposed only. The contributors can be reached at peidongzhao@utexas.edu and liangyu@utexas.edu 
 
 ## Data and Feature Selection 
