@@ -1,16 +1,22 @@
 # SPE-201351-MS
-Jupyter Notebook for Eagle Ford EUR prediction
+Big Data and Machine Learning Analysis of Eagle Ford EUR prediction
 
 Title: Region-to-Local Machine Learning Analysis for Unconventional Formation Reserve Estimation: Eagle Ford Case Study
 
-Authors: Peidong Zhao, Yu Liang
+Authors: Peidong Zhao, Rencheng Dong, Yu Liang
 
 SPE/OnePetro Document ID: SPE-201351-MS
 
 Abstract: To be uploaded
 
 ## Conflicts of Interest Statement
-The contributors of this repository declare no competing interests exist. This repository is for educational purposed only. The contributors can be reached at peidongzhao@utexas.edu and liangyu@utexas.edu 
+### The contributors of this repository declare no competing interests exist. 
+### This repository is for educational purposed only. 
+### For additional information request, please contact
+  * Yu (Reservoir+Production+Completion, liangyu@utexas.edu) for Dataset and ML regression
+  * Peidong (Geomechanics+Drilling+Completion, peidongzhao@utexas.edu) for Trend Model and ML regression
+  * Rencheng (Reservoir+Production, rencheng_dong@utexas.edu) for Geostatistical Model and Trend Model
+
 
 ## Data and Feature Selection 
 Dataset or sensitive information is unpublished for confidentiality.
