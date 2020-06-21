@@ -47,14 +47,14 @@ The training data for each model are selected from total of 4,067 wells based on
         - well location, well depth, lateral length, horizontal azimuth, and proppant intensity (lb/ft)
         - oil type, TOC, VRE, hydrocarbon pore volume, compressive strength, Young's modulus, pressure gradient, Upper Eagle Ford thickness, Lower Eagle Ford thickness, , density of producing fluid
       * Respondse Features: Oil EUR, Gas EUR
-## Eagle Ford Shale Trend Model
+## Regional Inference: Production Trend of Eagle Ford Shale 
 
 <p>
     <img src="/MachineLearning_Plot/Trend_results.png" >
     </>
 </p>
 
-## EUR Prediction for East Texas Eagle Ford
+## Local Prediction: EUR Prediction for East Texas Eagle Ford
 ### Oil EUR
 
 <p>
