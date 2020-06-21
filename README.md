@@ -20,7 +20,7 @@ Abstract: To be uploaded
 ## ML workflow for Unconventional Formation Reserve Estimation
 
 <p>
-    <img src="https://github.com/peidongzhao/SPE-201351-MS/blob/master/MachineLearning_Plot/02_ML_WorkFlow.png" width="600" height="360" />
+    <img src="https://github.com/peidongzhao/SPE-201351-MS/blob/master/MachineLearning_Plot/02_ML_WorkFlow.png" width="800" height="800/1.7" />
 </p>
 
 
