@@ -10,6 +10,11 @@ SPE/OnePetro ID: __SPE-201351-MS__
 ## Introduction
 
 ### 1. Opportunity
+<p>
+    <img src="https://www.eia.gov/todayinenergy/detail.php?id=14951"  />
+</p>
+
+
 
 Unconventional tight reservoirs currently make up more than 60% of domestic oil and gas production in the United States. However, developing unconventional formations requires intensive drilling and completion campaigns to maintain steady production of a field. Therefore, the prediction of estimated ultimate recovery, which measures the producible reserve from a well, is demanding, particularly as operators becomes more rational under the current volatile market conditions. Despite unconventional reservoirs being considered a resource play with low geological risks, their economic appraisal is challenged by unknown stimulation outcomes and intricate producing mechanisms. Therefore, this work aimed to leverage machine-learning techniques with big data to analyze the multivariant relationship of geological and engineering parameters with unconventional reservoir production and to improve the prediction of estimated ultimate recovery in unconventional formations.
 
