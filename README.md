@@ -1,7 +1,7 @@
 # SPE-201351-MS
 Big Data and Machine Learning Analysis of Eagle Ford EUR prediction
 
-Title: Region-to-Local Machine Learning Analysis for Unconventional Formation Reserve Estimation: Eagle Ford Case Study
+Title: Regional to Local Machine-Learning Analysis for Unconventional Formation Reserve Estimation: Eagle Ford Case Study
 
 Authors: Peidong Zhao, Rencheng Dong, Yu Liang
 
@@ -20,7 +20,7 @@ Abstract: To be uploaded
 ## ML workflow for Unconventional Formation Reserve Estimation
 
 <p>
-    <img src="https://github.com/peidongzhao/SPE-201351-MS/blob/master/MachineLearning_Plot/02_ML_WorkFlow.png" width="800" height="800/1.7" />
+    <img src="https://github.com/peidongzhao/SPE-201351-MS/blob/master/MachineLearning_Plot/02_ML_WorkFlow.png"  />
 </p>
 
 
