@@ -17,6 +17,13 @@ Abstract: To be uploaded
   * Peidong (Geomechanics+Drilling+Completion, peidongzhao@utexas.edu) for Trend Model and ML regression
   * Rencheng (Reservoir+Production, rencheng_dong@utexas.edu) for Geostatistical Model and Trend Model
 
+## ML workflow for Unconventional Formation Reserve Estimation
+
+<p>
+    <img src="https://github.com/peidongzhao/SPE-201351-MS/blob/master/MachineLearning_Plot/02_ML_WorkFlow.png" width="600" height="360" />
+</p>
+
+
 
 ## Data and Feature Selection 
 Dataset or sensitive information is unpublished for confidentiality.
