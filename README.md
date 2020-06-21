@@ -10,7 +10,7 @@ SPE/OnePetro ID: __SPE-201351-MS__
 ## Introduction
 
 ### Opportunity
-<p>
+<p align="center">
     <img src="/MachineLearning_Plot/eia.png"  />
 </p>
 
@@ -36,7 +36,7 @@ The contributors of this repository declare no competing interests. This reposit
 
 ## ML workflow for Unconventional Formation Reserve Estimation
 
-<p>
+<p align="center">
     <img src="/MachineLearning_Plot/02_ML_WorkFlow.png"  />
 </p>
 
@@ -61,7 +61,7 @@ The training data for each model are selected from total of 4,067 wells based on
       * Respondse Features: Oil EUR, Gas EUR
 ## Regional Inference: Production Trend of Eagle Ford Shale 
 
-<p>
+<p align="center">
     <img src="/MachineLearning_Plot/Trend_results.png" >
     </>
 </p>
@@ -69,7 +69,7 @@ The training data for each model are selected from total of 4,067 wells based on
 ## Local Prediction: EUR Prediction for East Texas Eagle Ford
 
 
-<p>
+<p align="center">
     <img src="/MachineLearning_Plot/RandomForest.png" >
 </p>
 
