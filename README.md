@@ -10,9 +10,7 @@ SPE/OnePetro Document ID: SPE-201351-MS
 Abstract: To be uploaded
 
 ## Conflicts of Interest Statement
-### The contributors of this repository declare no competing interests exist. 
-### This repository is for educational purposed only. 
-### For additional information request, please contact
+The contributors of this repository declare no competing interests. This repository is for educational purposed only. For additional information request, please contact
   * Yu (Reservoir+Production+Completion, liangyu@utexas.edu) for Dataset and ML regression
   * Peidong (Geomechanics+Drilling+Completion, peidongzhao@utexas.edu) for Trend Model and ML regression
   * Rencheng (Reservoir+Production, rencheng_dong@utexas.edu) for Geostatistical Model and Trend Model
