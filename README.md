@@ -9,7 +9,7 @@ SPE/OnePetro ID: __SPE-201351-MS__
 
 ## Introduction
 
-### 1. Opportunity
+### Opportunity
 <p>
     <img src="/MachineLearning_Plot/eia.png"  />
 </p>
@@ -18,10 +18,10 @@ SPE/OnePetro ID: __SPE-201351-MS__
 
 Unconventional tight reservoirs currently make up more than 60% of domestic oil and gas production in the United States. However, developing unconventional formations requires intensive drilling and completion campaigns to maintain steady production of a field. Therefore, the prediction of estimated ultimate recovery, which measures the producible reserve from a well, is demanding, particularly as operators becomes more rational under the current volatile market conditions. Despite unconventional reservoirs being considered a resource play with low geological risks, their economic appraisal is challenged by unknown stimulation outcomes and intricate producing mechanisms. Therefore, this work aimed to leverage machine-learning techniques with big data to analyze the multivariant relationship of geological and engineering parameters with unconventional reservoir production and to improve the prediction of estimated ultimate recovery in unconventional formations.
 
-### 2. Tasks 
+### Tasks 
 The objective of this work is to improve the prediction EUR in eagle ford formation. A multiscale approach is adopted in this work. The large-scale trend model aims to delineate sweet spots, which grants direct guidance for acreage acquisition and development across the basin. The small-scale predicting model aims to collect key parameters in anticipating high production at a specific area and insights for production optimization in the field.
 
-### 3. Methods
+### Methods
 In this case study, a multiscale machine-learning workflow was deliberated and applied to a big data set from the Eagle Ford shale. First, quality control and feature selection were performed on a data set consisting of 4,067 wells with 30+ geophysical, petrophysical, drilling and completion, and production features. Then, a regional inferencing model, based on a K-nearest neighbor with bagging algorithm, was trained to obtain the spatial trend of estimated ultimate recovery across the Eagle Ford formation. The last part of the analysis was to build a local-scale prediction model. With the study area confined to East Texas, a random forest regression was performed to rigorously predict oil and gas estimated ultimate recoveries. The selected training features were finalized based on the results of a higher-dimension regression, as well as domain knowledge. Overall, the data-driven model trained with physically controlled data captured the production behavior of the Eagle Ford shale.
 
 ## Executive Summary
