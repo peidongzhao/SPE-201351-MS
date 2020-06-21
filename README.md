@@ -50,7 +50,7 @@ The training data for each model are selected from total of 4,067 wells based on
 ## Eagle Ford Shale Trend Model
 
 <p>
-    <img src="/MachineLearning_Plot/09_Oil_KNN_Map_2.png" width='50%'height= '50%' | img src="/MachineLearning_Plot/06_Gas_KNN_Map_2.png" width='50%' height= '50%'>
+    <img src="/MachineLearning_Plot/Trend_results.png" >
     </>
 </p>
 
