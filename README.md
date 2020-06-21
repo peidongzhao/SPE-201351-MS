@@ -11,7 +11,7 @@ SPE/OnePetro ID: __SPE-201351-MS__
 
 ### 1. Opportunity
 <p>
-    <img src="https://www.eia.gov/todayinenergy/detail.php?id=14951"  />
+    <img src="/MachineLearning_Plot/eia.png"  />
 </p>
 
 
