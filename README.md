@@ -55,16 +55,12 @@ The training data for each model are selected from total of 4,067 wells based on
 </p>
 
 ## Local Prediction: EUR Prediction for East Texas Eagle Ford
-### Oil EUR
+
 
 <p>
-    <img src="/MachineLearning_Plot/25_RandomForest_Oil_3_FeatureImportance.png" width='50%'height= '50%' >
+    <img src="/MachineLearning_Plot/RandomForest.png" >
 </p>
 
-### Gas EUR
-</p>
-    <img src="/MachineLearning_Plot/19_RandomForest_Gas_3_FeatureImportance.png" width='50%' height= '50%'>
-</p>
 
 ## Conclusions
 In this study, we present a multiscale machine-learning workflow to predict EUR in unconventional formations. The latest approach reduces predicting error by more than 50% compared with our previous work on the Eagle Ford shale. The workflow consists of four parts: data collection, data preprocessing and quality control, trend modeling, and regression modeling. 
