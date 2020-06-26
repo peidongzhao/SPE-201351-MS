@@ -7,7 +7,7 @@ Authors: __Peidong Zhao, Rencheng Dong, Yu Liang__
 
 SPE/OnePetro ID: __SPE-201351-MS__
 
-keywords: __Eagle Ford Shale, EUR Prediction, Big Data, Machine Learning, Random Forest, K-Nearest Neighbor__
+keywords: __Eagle Ford Shale, Estimated Ultimate Recovery, Big Data, Machine Learning, Random Forest, K-Nearest Neighbor__
 
 ## Introduction
 
